@@ -6,6 +6,6 @@ Throughout human history, music has been a ubiquitous presence in cultures world
 To create a virtual piano, we will use the real-world physics of second-order wave equations. This will allow us to simulate the behavior of the strings in response to a hammer strike and produce a range of notes
 with varying pitch and quality. We will also provide functions that are applicable to the round and chord in
 the sheet music, which are essential elements of many musical compositions.
-To illustrate the practical applications of these functions and the virtual piano, we will construct a song
-- the Ode to Joy. This song is an excellent example of how the fundamental elements of music, such as pitch
+To illustrate the practical applications of these functions and the virtual piano, we will construct the song
+the Ode to Joy. This song is an excellent example of how the fundamental elements of music, such as pitch
 and rhythm, can be combined to create a pleasing composition.
