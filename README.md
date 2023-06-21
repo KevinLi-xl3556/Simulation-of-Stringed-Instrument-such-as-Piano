@@ -9,3 +9,5 @@ the sheet music, which are essential elements of many musical compositions.
 To illustrate the practical applications of these functions and the virtual piano, we will construct the song
 the Ode to Joy. This song is an excellent example of how the fundamental elements of music, such as pitch
 and rhythm, can be combined to create a pleasing composition.
+
+co-authoe @ Songwei Li, [Yinuo Xu](https://github.com/YinoXu)
