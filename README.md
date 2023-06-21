@@ -10,4 +10,4 @@ To illustrate the practical applications of these functions and the virtual pian
 the Ode to Joy. This song is an excellent example of how the fundamental elements of music, such as pitch
 and rhythm, can be combined to create a pleasing composition.
 
-co-authoe @ Songwei Li, [Yinuo Xu](https://github.com/YinoXu)
+co-author @ Songwei Li, [Yinuo Xu](https://github.com/YinoXu)
